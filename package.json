@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/AshishBhoi/website/issues"
   },
-  "homepage": "https://github.com/AshishBhoi/website#readme"
+  "homepage": "https://github.com/AshishBhoi/website#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
