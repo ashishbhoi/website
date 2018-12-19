@@ -1,0 +1,27 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "My Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishBhoi/website.git"
+  },
+  "keywords": [
+    "Ashish",
+    "Kumar",
+    "Bhoi",
+    "Ashish",
+    "Website",
+    "Bootstrap"
+  ],
+  "author": "Ashish Kumar Bhoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AshishBhoi/website/issues"
+  },
+  "homepage": "https://github.com/AshishBhoi/website#readme"
+}
