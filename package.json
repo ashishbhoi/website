@@ -4,8 +4,8 @@
   "description": "My Website",
   "main": "index.html",
   "scripts": {
-    "html": "node-minify --compressor html-minifier --input 'src/index.html' --output 'docs/index.html'",
-    "build": "npm run html"
+    "index": "node-minify --compressor html-minifier --input 'src/index.html' --output 'docs/index.html'",
+    "build": "npm run index"
   },
   "repository": {
     "type": "git",
