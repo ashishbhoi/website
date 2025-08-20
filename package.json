@@ -27,12 +27,12 @@
   "homepage": "https://github.com/AshishBhoi/website#readme",
   "dependencies": {
     "node-minify": "^3.6.0",
-    "sass": "^1.15.2"
+    "sass": "^1.90.0"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.6.1",
-    "bootstrap": "^4.2.1",
-    "jquery": "^3.3.1",
+    "bootstrap": "^5.0.0",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.3"
   }
 }
